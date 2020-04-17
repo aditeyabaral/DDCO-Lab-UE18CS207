@@ -1,0 +1,46 @@
+$date
+	Sat Aug 17 15:31:32 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var wire 1 ! o $end
+$var reg 1 " i1 $end
+$var reg 1 # i2 $end
+$scope module my_gate $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 ! y1 $end
+$var wire 1 ! y2 $end
+$var wire 1 ! y3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+x!
+$end
+#5
+1#
+1%
+#10
+0#
+0%
+1"
+1$
+#15
+1#
+1%
+#20
+0#
+0%
+0"
+0$
